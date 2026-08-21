@@ -3,7 +3,6 @@ int a0DigitalValue = 0;
 int yellowPin = 3, bluePin = 4, greenPin = 5;
 
 void setup() {
-
   // Set Pin Modes
   pinMode(A0, INPUT);
   pinMode(bluePin, OUTPUT);
